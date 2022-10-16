@@ -3,9 +3,7 @@ We provide here code to accompany paper: Effects of concurrency on epidemic spre
 
 The following python files are included:
 ```
-
 SIS_Model_1prime.py -- contains code to simulate the SIS epidemic spreading on Model 1'.
-
 SIS_Model_2.py -- contains code to simulate the SIS epidemic spreading on Model 2.
 
 SIS_Model_1dprime.py -- contains code to simulate the SIS epidemic spreading on Model 1''.
