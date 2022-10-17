@@ -10,7 +10,7 @@ Jupyter notebook
 ```
 figure_X.ipynb
 ```
-contains the code to produce fig X in the manuscript, where $$X = 2, 3, 4, 5, 6, 7$$, and $$8$$.
+contains the code to produce fig X in the manuscript, where $X = 2, 3, 4, 5, 6, 7$, and $$8$$.
 
 The following python files are included:
 ```
