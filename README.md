@@ -1,5 +1,5 @@
 # Laplace-Gillespie-algorithm-on-SIS-and-SIR-model
-We provide here code to accompany paper: Effects of concurrency on epidemic spreading in Markovian temporal networks (arXiv:2201.00754)
+We provide here code to accompany the paper: Effects of concurrency on epidemic spreading in Markovian temporal networks. The preprint is available on arXiv. (arXiv:2201.00754)
 
 The following Jupyter notebooks are included:
 ```
