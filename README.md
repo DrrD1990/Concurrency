@@ -17,13 +17,12 @@ The data [make the folder name 'data' visually look like Github like. I mean, I 
 ## Python code for running stochastic SIS and SIR dynamics
 
 The following Python codes are also included:
-```
-SIS_Model_1prime.py -- to simulate the SIS model on networks with partnership model 1'.
-SIS_Model_2.py -- to simulate the SIS model on networks with partnership model 2.
-SIS_Model_1dprime.py -- to simulate the SIS model on networks with partnership model 1''.
-SIS_Model_3.py -- to simulate the SIS model on networks with partnership model 3.
-SIR_Model_1prime.py -- to simulate the SIR model on networks with partnership model 1'.
-SIR_Model_2.py -- to simulate the SIR model on networks with partnership model 2.
-SIR_Model_1dprime.py -- to simulate the SIR model on networks with partnership model 1''.
-SIR_Model_3.py -- to simulate the SIR model on networks with partnership model 3.
-```
+
+- SIS_Model_1prime.py -- to simulate the SIS model on networks with partnership model 1'.
+- SIS_Model_2.py -- to simulate the SIS model on networks with partnership model 2.
+- SIS_Model_1dprime.py -- to simulate the SIS model on networks with partnership model 1''.
+- SIS_Model_3.py -- to simulate the SIS model on networks with partnership model 3.
+- SIR_Model_1prime.py -- to simulate the SIR model on networks with partnership model 1'.
+- SIR_Model_2.py -- to simulate the SIR model on networks with partnership model 2.
+- SIR_Model_1dprime.py -- to simulate the SIR model on networks with partnership model 1''.
+- SIR_Model_3.py -- to simulate the SIR model on networks with partnership model 3.
