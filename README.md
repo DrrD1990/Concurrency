@@ -14,7 +14,7 @@ figure_X.ipynb
 contains the code to produce fig X in the manuscript, where $X = 2, 3, 4, 5, 6, 7$, and $8$.
 The data [make the folder name 'data' visually look like Github like. I mean, I want to make it look better simply.] subfolder contains the numerical results based on which Figures 5-8 are produced [correct? Otherwise, revise.]
 
-# Python code for running stochastic SIS and SIR dynamics
+## Python code for running stochastic SIS and SIR dynamics
 
 The following Python codes are also included:
 ```
