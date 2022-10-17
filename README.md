@@ -1,6 +1,10 @@
 # Effect of concurrency on epidemic sizes in the event-driven SIS and SIR models on networks
 
-We provide here code to accompany the paper: Effects of concurrency on epidemic spreading in Markovian temporal networks. The preprint is available on arXiv. (arXiv:2201.00754)
+We provide here code to accompany the following paper:
+
+R. Liu, M. Ogura, E. Fonseca dos Reis, N. Masuda. 
+Effects of concurrency on epidemic spreading in Markovian temporal networks. 
+Preprint on arXiv: arXiv:2201.00754 [Ruodan, insert the URL link using markdown grammar]
 
 The following Jupyter notebooks are included:
 ```
