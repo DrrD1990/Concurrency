@@ -1,4 +1,4 @@
-# Effect of concurrency on epidemic sizes in the event-driven SIS and SIR models on networks
+# Effect of concurrency on stochastic epidemic dydnamics in SIS and SIR models on networks
 
 We provide here code to accompany the following paper:
 
