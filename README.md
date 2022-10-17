@@ -10,16 +10,16 @@ Jupyter notebook
 ```
 figure_X.ipynb
 ```
-contains the code to produce fig X in the manuscript, where $X = 2, 3, 4, 5, 6, 7$, and $$8$$.
+contains the code to produce fig X in the manuscript, where $X = 2, 3, 4, 5, 6, 7$, and $8$.
 
-The following python files are included:
+The following Python codes are also included:
 ```
-SIS_Model_1prime.py -- contains code to simulate the SIS epidemic spreading on Model 1'.
-SIS_Model_2.py -- contains code to simulate the SIS epidemic spreading on Model 2.
-SIS_Model_1dprime.py -- contains code to simulate the SIS epidemic spreading on Model 1''.
-SIS_Model_3.py -- contains code to simulate the SIS epidemic spreading on Model 3.
-SIR_Model_1prime.py -- contains code to simulate the SIR epidemic spreading on Model 1'.
-SIR_Model_2.py -- contains code to simulate the SIR epidemic spreading on Model 2.
-SIR_Model_1dprime.py -- contains code to simulate the SIR epidemic spreading on Model 1''.
-SIR_Model_3.py -- contains code to simulate the SIR epidemic spreading on Model 3.
+SIS_Model_1prime.py -- to simulate the SIS epidemic spreading on Model 1'.
+SIS_Model_2.py -- to simulate the SIS epidemic spreading on Model 2.
+SIS_Model_1dprime.py -- to simulate the SIS epidemic spreading on Model 1''.
+SIS_Model_3.py -- to simulate the SIS epidemic spreading on Model 3.
+SIR_Model_1prime.py -- to simulate the SIR epidemic spreading on Model 1'.
+SIR_Model_2.py -- to simulate the SIR epidemic spreading on Model 2.
+SIR_Model_1dprime.py -- to simulate the SIR epidemic spreading on Model 1''.
+SIR_Model_3.py -- to simulate the SIR epidemic spreading on Model 3.
 ```
