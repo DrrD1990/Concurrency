@@ -4,7 +4,7 @@ We provide here code to accompany the following paper:
 
 R. Liu, M. Ogura, E. Fonseca dos Reis, N. Masuda. 
 Effects of concurrency on epidemic spreading in Markovian temporal networks. 
-Preprint on arXiv: arXiv:2201.00754 [Ruodan, insert the URL link using markdown grammar]
+Preprint on arXiv: [arXiv:2201.00754](https://arxiv.org/abs/2201.00754) 
 
 ## Jupyter notebook to create figures
 
@@ -12,7 +12,7 @@ Preprint on arXiv: arXiv:2201.00754 [Ruodan, insert the URL link using markdown 
 figure_X.ipynb
 ```
 contains the code to produce fig X in the manuscript, where $X = 2, 3, 4, 5, 6, 7$, and $8$.
-The data [make the folder name 'data' visually look like Github like. I mean, I want to make it look better simply.] subfolder contains the numerical results based on which Figures 5-8 are produced [correct? Otherwise, revise.]
+The data [make the folder name 'data' visually look like Github like. I mean, I want to make it look better simply.] subfolder contains the numerical results based on which Figures 5-8 are produced.
 
 ## Python code for running stochastic SIS and SIR dynamics
 
