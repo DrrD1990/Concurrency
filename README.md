@@ -12,7 +12,7 @@ Preprint on arXiv: [arXiv:2201.00754](https://arxiv.org/abs/2201.00754)
 figure_X.ipynb
 ```
 contains the code to produce fig X in the manuscript, where $X = 2, 3, 4, 5, 6, 7$, and $8$.
-The data [make the folder name 'data' visually look like Github like. I mean, I want to make it look better simply.] subfolder contains the numerical results based on which Figures 5-8 are produced.
+The [notebooks/data/ folder](https://github.com/DrrD1990/concurrency/tree/main/notebooks/data) contains the numerical results based on which Figures 5-8 are produced.
 
 ## Python code for running stochastic SIS and SIR dynamics
 
